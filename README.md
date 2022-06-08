@@ -1,2 +1,3 @@
 # homebrew-tap
-A homebrew tap for some of our 3rd party dependencies
+
+This is a [homebrew tap](https://docs.brew.sh/Taps) that allows us to create custom homebrew formular.
